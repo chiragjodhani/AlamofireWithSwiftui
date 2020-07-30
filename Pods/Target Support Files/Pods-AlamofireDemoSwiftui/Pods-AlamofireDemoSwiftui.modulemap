@@ -1,0 +1,6 @@
+framework module Pods_AlamofireDemoSwiftui {
+  umbrella header "Pods-AlamofireDemoSwiftui-umbrella.h"
+
+  export *
+  module * { export * }
+}
